@@ -1,2 +1,2 @@
 # Project-1
-Lets create a project and try to do something instead of keeping this group empty
+Lets not create a project and instead of keep this group empty
